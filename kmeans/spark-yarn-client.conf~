@@ -1,0 +1,10 @@
+#====================================DO NOT CHANGE================================
+spark.master            yarn-client
+spark.eventLog.enabled  true
+spark.eventLog.dir      hdfs://hadoop.student.eecs.qmul.ac.uk:54310/var/log/spark/
+spark.serializer 	org.apache.spark.serializer.KryoSerializer
+spark.yarn.historyServer.address hadoop.eecs.qmul.ac.uk:18080
+spark.yarn.submit.file.replication	10
+#====================================DO NOT CHANGE================================
+
+

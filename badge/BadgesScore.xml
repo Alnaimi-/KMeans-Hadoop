@@ -1,0 +1,35 @@
+<row Id="1" Name="Altruist" Type="0" Colour="1">
+<row Id="2" Name="Benefactor" Type="0" Colour="1">
+<row Id="3" Name="Curious" Type="0" Colour="1">
+<row Id="4" Name="Inquisitive" Type="0" Colour="2">
+<row Id="5" Name="Socratic" Type="0" Colour="3">
+<row Id="6" Name="Favorite Question" Type="0" Colour="2">
+<row Id="7" Name="Stellar Question" Type="0" Colour="3">
+<row Id="8" Name="Investor" Type="0" Colour="1">
+<row Id="9" Name="Nice Question" Type="0" Colour="1">
+<row Id="10" Name="Good Question" Type="0" Colour="2">
+<row Id="11" Name="Great Question" Type="0" Colour="3">
+<row Id="12" Name="Popular Question" Type="0" Colour="1">
+<row Id="13" Name="Notable Question" Type="0" Colour="2">
+<row Id="14" Name="Famous Question" Type="0" Colour="3">
+<row Id="15" Name="Promoter" Type="0" Colour="1">
+<row Id="16" Name="Scholar" Type="0" Colour="1">
+<row Id="17" Name="Student" Type="0" Colour="1">
+<row Id="18" Name="Tumbleweed" Type="0" Colour="-1">
+<row Id="19" Name="Enlightened" Type="1" Colour="2">
+<row Id="20" Name="Explainer" Type="1" Colour="1">
+<row Id="21" Name="Refiner" Type="1" Colour="2">
+<row Id="22" Name="Illuminator" Type="1" Colour="3">
+<row Id="23" Name="Generalist" Type="1" Colour="2">
+<row Id="24" Name="Guru" Type="1" Colour="2">
+<row Id="25" Name="Nice Answer" Type="1" Colour="1">
+<row Id="26" Name="Good Answer" Type="1" Colour="2">
+<row Id="27" Name="Great Answer" Type="1" Colour="3">
+<row Id="28" Name="Populist" Type="1" Colour="3">
+<row Id="29" Name="Reversal" Type="1" Colour="3">
+<row Id="30" Name="Revival" Type="1" Colour="1">
+<row Id="31" Name="Necromancer" Type="1" Colour="2">
+<row Id="32" Name="Self-Learner" Type="1" Colour="1">
+<row Id="33" Name="Teacher" Type="1" Colour="1">
+<row Id="34" Name="Tenacious" Type="1" Colour="2">
+<row Id="35" Name="Unsung Hero" Type="1" Colour="3">
